@@ -1,21 +1,23 @@
 # Project-Proposal
-# 
+# Online Exam Management System Java Project
 
 ## Project Abstract
-_At least one paragraph description of the overall project. Include a UML use case diagram or other helpful diagram._ 
+Online Quiz System is a web-based application in Java. The main aim of this project is to create a discussion platform consisting of quiz questions on different topics, fields and subjects. Online Quiz system facilitates a user-friendly environment of Bluebook implementation, and the project overall manual effort. 
 
-![Use Case Image](StellaOwl_PayStation.png)
+![E-R diagram](https://user-images.githubusercontent.com/60365593/108102746-f253ab00-7056-11eb-9111-c19eb3a20a01.png)
+
+
+![class diagram](https://user-images.githubusercontent.com/60365593/108102774-ff709a00-7056-11eb-9849-0e50ad1d044c.png)
+
+
 
 ## Project Relevance
 _A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx)_
 
-## Conceptual Design
-_A one-paragraph description of your proposed contribution._
+
 
 ## Background
-_A URL reference to the project. Add text on how to build and run succesfully._ 
-
-<https://github.com/temple-cis3296/MainPaystationLab>
+https://www.codewithc.com/online-quiz-system-project-java/
 
 ***Building***
 - Do now work with NetBeans 8.0.2 (I have tried) use I have used NetBeans 11 on MacOS instead. 
