@@ -25,8 +25,11 @@ https://www.codewithc.com/online-quiz-system-project-java/
 - First build is taking a long time as it is downloading many things but eventually succeed.
 
 **Running**
-- Do not contains a main so do not run the expected way. 
-- Select "Run Tests" from Run menu in NetBeans. 
+- Download the latest version of Eclipse software.
+- Download and install MySQL.
+- Install J2EE.
+- Windows XP.
+- Rational Rose is used for design purpose.
 
 ## Required Resources
 - _Group members competencies_
