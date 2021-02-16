@@ -24,11 +24,6 @@ Online Quiz System is a web-based application in Java. The main aim of this proj
 https://www.codewithc.com/online-quiz-system-project-java/
 
 ***Building***
-- Do now work with NetBeans 8.0.2 (I have tried) use I have used NetBeans 11 on MacOS instead. 
-- Select pom.xml when opening project in NetBeans 11. 
-- First build is taking a long time as it is downloading many things but eventually succeed.
-
-**Running**
 - Download the latest version of Eclipse software.
 - Download and install MySQL.
 - Install J2EE.
