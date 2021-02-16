@@ -12,7 +12,9 @@ Online Quiz System is a web-based application in Java. The main aim of this proj
 
 
 ## Project Relevance
-_A one paragraph explanation of how the proposal is linked to the educational goals of this class and why this goal is important goal (see list of subject in Initial Survey or slide 7 and 8 in CIS3296Introduction.pptx)_
+–Extensible Markup Language (XML) - Which will use some web application for this project
+–Graphic User Interface - Has interface in the web app for user's convenience
+–Access to Database - question bank for user to take the quiz
 
 
 
