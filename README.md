@@ -43,7 +43,8 @@ More features can be added based on student’s interest.
 
 ## Background
 
-Source code can be downloaded in this website and run in android studio,
+Source code can be downloaded in this website and run in android studio
+
 https://projectworlds.in/android-projects-with-source-code/android-attendance-system-app-source-code/
 
 
