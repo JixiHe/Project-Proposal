@@ -57,7 +57,7 @@ Needs to have Java installed
 Run the “MainActivity” file in Android Studio or simply click on the run button. It will take a few minutes to run the application for the first time. And will also take a while to boot up the android machine as well. So be patient.
 
 ## Required Resources
-- _Team members need to have some experience on coding in java, so they can learn how to code in android later.
+- Team members need to have some experience on coding in java, so they can learn how to code in android later.
 
-- _Needs to have java installed, and more computer memory preferred. Otherwise, will make your computer overheat or respond slowly. 
+- Needs to have java installed, and more computer memory preferred. Otherwise, will make your computer overheat or respond slowly. 
 
